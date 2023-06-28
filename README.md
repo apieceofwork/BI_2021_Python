@@ -35,3 +35,7 @@ run this command "pip install -r requirements.txt"
 It will install the needed packages in your virtual environment.
 
 4) Now when the packages have been installed, you can run "pain.py"
+   
+Use this command: python pain.py
+
+5) Great! Everything works! Here is the output of pain.py:
