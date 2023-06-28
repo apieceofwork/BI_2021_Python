@@ -32,7 +32,7 @@ run this command "pip install -r requirements.txt"
 
 - instead use this command: "while read requirement; do conda install --yes $requirement; done < requirements.txt"
 
-It will install the needed packages in your virtual environment.
+It will install the needed packages in your virtual environment
 
 Wait till you see "# All requested packages already installed."
 
