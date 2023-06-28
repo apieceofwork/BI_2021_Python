@@ -13,6 +13,8 @@ In my repository you will find a file called "requirements.txt". It contains all
 
 *For virtualenv:*
 
+- virtualenv (insert your virtual_env name)
+- source 
 
 
 
