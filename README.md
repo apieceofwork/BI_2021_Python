@@ -28,9 +28,9 @@ run this command "pip install -r requirements.txt"
    
 *For conda:*
 
-- while the command "pip install -r requirements.txt" usually works, conda doesn’t support this option directly.
+- while the command "pip install -r requirements.txt" usually works, conda doesn’t support this option directly
 
-- Instead use this command: "while read requirement; do conda install --yes $requirement; done < requirements.txt". 
+- Instead use this command: "while read requirement; do conda install --yes $requirement; done < requirements.txt"
 
 It will install the needed packages in your virtual environment.
 
