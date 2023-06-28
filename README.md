@@ -38,7 +38,7 @@ It will install the needed packages in your virtual environment.
    
 Use this command: python pain.py
 
-5) Great! Everything works! Here is the output of pain.py:
+5) Great! Everything works! Here is the output of "pain.py":
 
 <img width="600" alt="Screenshot 2023-06-29 at 01 16 41" src="https://github.com/apieceofwork/BI_2021_Python/assets/57996343/16197ba4-9d10-4ef5-bfb6-efd37bbff510">
 
