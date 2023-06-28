@@ -27,4 +27,4 @@ In my repository you will find a file called "requirements.txt". It contains all
 
 It will install the needed packages in your virtual environment.
 
-4) Now when the packages hav
+4) Now when the packages have been installed, you can run "pain.py"
