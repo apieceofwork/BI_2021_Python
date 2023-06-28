@@ -23,6 +23,7 @@ In my repository you will find a file called "requirements.txt". It contains all
 3) After you've activated your new virtual environment, you need to install all the packages listed in "requirements.txt"
 
 *For virtualenv:*
+
 run this command "pip install -r requirements.txt" 
    
 *For conda:*
