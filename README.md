@@ -11,8 +11,14 @@ In my repository you will find a file called "requirements.txt". It contains all
 **So, the steps are the following:**
 1) Create and activate a new virtual environment by using conda or virtualenv:
 
-In conda:
+For conda:
 - conda create --name (insert your virtual_env name)
 - conda activate (insert your virtual_env name)
 
-3) After you've activated your new virtual environemnt, you need to install "requirements.txt" 
+3) After you've activated your new virtual environment, you need to install all the packages listed in "requirements.txt"
+For conda:
+while the command "pip install -r requirements.txt" usually works, conda doesn’t support this option directly.
+Instead use this command:
+"while read requirement; do conda install --yes $requirement; done < requirements.txt". It will install the needed packages in your virtual environment.
+
+
