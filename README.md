@@ -16,9 +16,13 @@ For conda:
 - conda activate (insert your virtual_env name)
 
 3) After you've activated your new virtual environment, you need to install all the packages listed in "requirements.txt"
+   
 For conda:
+
 while the command "pip install -r requirements.txt" usually works, conda doesn’t support this option directly.
+
 Instead use this command:
+
 "while read requirement; do conda install --yes $requirement; done < requirements.txt". It will install the needed packages in your virtual environment.
 
 
