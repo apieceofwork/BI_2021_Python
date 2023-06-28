@@ -11,11 +11,19 @@ In my repository you will find a file called "requirements.txt". It contains all
 **So, the steps are the following:**
 1) Create and activate a new virtual environment by using conda or virtualenv:
 
+*For virtualenv:*
+
+
+
+
 *For conda:*
 - conda create --name (insert your virtual_env name)
 - conda activate (insert your virtual_env name)
 
 3) After you've activated your new virtual environment, you need to install all the packages listed in "requirements.txt"
+
+*For virtualenv:*
+run this command "pip install -r requirements.txt" 
    
 *For conda:*
 
