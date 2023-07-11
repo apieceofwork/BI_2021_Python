@@ -22,7 +22,8 @@ In my repository you will find a file called "requirements.txt". It contains all
 
 2) Then you have to download my file "requirements.txt" to your computer.
 
-To do that, you have to copy my repository to your computer: `git clone https://github.com/apieceofwork/BI_2021_Python'. As my file lies in a branch different from master you have to go to that specific branch to run "requirements.txt" as a result.
+To do that, you have to copy my repository to your computer: `git clone https://github.com/apieceofwork/BI_2021_Python`. 
+As my file lies in a branch different from master you have to go to that specific branch to run "requirements.txt" as a result.
 
 Run this command `git checkout New-IB-Python-Challenges`. Now you have been transfered to "New-IB-Python-Challenges" branch where the file is
 
