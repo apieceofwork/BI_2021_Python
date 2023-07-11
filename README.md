@@ -44,7 +44,7 @@ It will install the needed packages in your virtual environment
 
 Wait till you see "# All requested packages already installed."
 
-4) When the packages have been installed, the last thing you have to do is to download "pain py" and run it. For that, download this rep which contains the file to your computer: `git clone https://github.com/krglkvrmn/Virtual_environment_research`.
+4) When the packages have been installed, the last thing you have to do is to download "pain.py" and run it. For that, download this rep which contains the file to your computer: `git clone https://github.com/krglkvrmn/Virtual_environment_research`.
   
 6) Now when the packages have been installed, you can run "pain.py"
    
