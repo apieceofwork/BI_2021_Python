@@ -22,7 +22,7 @@ In my repository you will find a file called "requirements.txt". It contains all
 
 2)  After you've activated your new virtual environment, you have to download my file "requirements.txt" to your computer.
 
-To do that, you have to copy my repository to your computer: `git clone https://github.com/apieceofwork/BI_2021_Python`. Go to the downloaded folder and initialize it by this command: `git init BI_2021_Python`
+To do that, you have to copy my repository to your computer: `git clone https://github.com/apieceofwork/BI_2021_Python`. 
 
 As my file lies in a branch different from master you have to go to that specific branch to run "requirements.txt" as a result.
 
