@@ -13,8 +13,8 @@ In my repository you will find a file called "requirements.txt". It contains all
 
 *For virtualenv:*
 
-- virtualenv (insert your virtual_env name)
-- source virtual_env name/bin/activate
+- `virtualenv (insert your virtual_env name)`
+- `source virtual_env name/bin/activate`
 
 *For conda:*
 - `conda create --name (insert your virtual_env name)`
@@ -28,9 +28,9 @@ run this command `pip install -r requirements.txt`
    
 *For conda:*
 
-- while the command "pip install -r requirements.txt" usually works, conda doesn’t support this option directly
+- while the command `pip install -r requirements.txt` usually works, conda doesn’t support this option directly
 
-- instead use this command: "while read requirement; do conda install --yes $requirement; done < requirements.txt"
+- instead use this command: `while read requirement; do conda install --yes $requirement; done < requirements.txt`
 
 It will install the needed packages in your virtual environment
 
@@ -38,7 +38,7 @@ Wait till you see "# All requested packages already installed."
 
 4) Now when the packages have been installed, you can run "pain.py"
    
-Use this command: python pain.py
+Use this command: `python pain.py`
 
 5) Great! Everything works! Here is the output of "pain.py":
 
