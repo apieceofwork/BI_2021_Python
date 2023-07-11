@@ -8,9 +8,6 @@ OS version: MacOS Ventura 13.3.1
 
 In my repository you will find a file called "requirements.txt". It contains all the packages needed for running the file, "pain.py"
 
-Before actually starting to work with the virtual environment, you have to download my file "requirements.txt" to your computer.
-
-
 **So, the steps are the following:**
 1) Create and activate a new virtual environment by using conda or virtualenv:
 
@@ -22,6 +19,12 @@ Before actually starting to work with the virtual environment, you have to downl
 *For conda:*
 - `conda create --name (insert your virtual_env name)`
 - `conda activate (insert your virtual_env name)`
+
+2) Then you have to download my file "requirements.txt" to your computer.
+
+To do that, you have to copy my repository to your computer: `git clone https://github.com/apieceofwork/BI_2021_Python'. As my file lies in a branch different from master you have to go to that specific branch to run "requirements.txt" as a result.
+
+Run this command `git checkout New-IB-Python-Challenges`. Now you have been transfered to "New-IB-Python-Challenges" branch where the file is
 
 3) After you've activated your new virtual environment, you need to install all the packages listed in "requirements.txt"
 
